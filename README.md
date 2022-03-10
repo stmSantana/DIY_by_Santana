@@ -33,8 +33,9 @@ The item is fully integrated into the console and will appear in the auto-comple
 * Move `DiyBySantana.modcomponent` to your mods folder.
 
 ### Recommended mods
-I highly recommend using this mod with P.A.
+I **highly recommend** using this mod with P.A.
 * [Placing Anywhere by Xpazeman](https://github.com/Xpazeman/tld-placing-anywhere)
-
+* [PlaceFromInventory by zorgesho](https://github.com/zorgesho/TheLongDarkMods/tree/master/PlaceFromInventory)
+* 
 ## Special Thanks
 The Long Dark Modding Server (discord)
