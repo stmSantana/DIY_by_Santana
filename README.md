@@ -11,8 +11,9 @@ Nails can be found in lockers, etc., and can be **forged from scrap metal**.
 
 [More Images](https://github.com/stmSantana/DIY_by_Santana/wiki/Gallery)
 
-#Usage
-Use the "Conform to surface" shortcut key when using this mod with the "Placing Anywhere Mod".
+## Usage
+Use the "Conform to surface" shortcut key when using this mod with the "Placing Anywhere Mod". It should be possible to place things in a short time.
+<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/diyuse1.jpg" width="90%"><br>
 
 
 ### Finding Items
