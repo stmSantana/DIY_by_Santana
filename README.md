@@ -11,6 +11,10 @@ Nails can be found in lockers, etc., and can be **forged from scrap metal**.
 
 [More Images](https://github.com/stmSantana/DIY_by_Santana/wiki/Gallery)
 
+#Usage
+Use the "Conform to surface" shortcut key when using this mod with the "Placing Anywhere Mod".
+
+
 ### Finding Items
 Currently the new item `Wrought nail` will be spawned while searching various locations, e.g. Workbench, Locker.
 I have also added spawns for all items in some locations. Those are guaranteed. e.g. QuonsetGasStation, CampOffice.
