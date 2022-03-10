@@ -30,7 +30,9 @@ The item is fully integrated into the console and will appear in the auto-comple
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
 * Download latest version of `DiyBySantana.modcomponent` from the [releases page](https://github.com/stmSantana/DIY_by_Santana/releases/latest).
 * Move `DiyBySantana.modcomponent` to your mods folder.
+
 ### Recommended mods
+I highly recommend using this mod with P.A.
 * [Placing Anywhere by Xpazeman](https://github.com/Xpazeman/tld-placing-anywhere)
 
 ## Special Thanks
