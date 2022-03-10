@@ -17,6 +17,7 @@ I have also added spawns for all items in some locations. Those are guaranteed. 
 
 
 ### Adding Items
+For those who don't want to spend time crafting, there is an instant way to get the item.
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) Items can be manually added to your inventory with the command `add <GearName>`.
 (e.g. `add `)
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
