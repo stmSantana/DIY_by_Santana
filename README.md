@@ -1,4 +1,4 @@
-# DIY_by_Santana
+# DIY by Santana
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description v1.0
