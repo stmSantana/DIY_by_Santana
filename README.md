@@ -18,30 +18,33 @@ Use the "Conform to surface" shortcut key when using this mod with the "Placing 
 
 
 ### Finding Items
-Currently the new item `Wrought nail` will be spawned while searching various locations, e.g. Workbench, Locker.
-I have also added spawns for all items in some locations. Those are guaranteed. e.g. QuonsetGasStation, CampOffice.
+- Currently the new item `Wrought nail` will be spawned while searching various locations, e.g. Workbench, Locker.
+- I have also added spawns for all items in some locations. Those are guaranteed. e.g. QuonsetGasStation, CampOffice.
 
 
 ### Adding Items
-For those who don't want to spend time crafting, there is an instant way to get the item.
+For those who don't want to spend time crafting, there is an instant way to get the item.<br>
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) Items can be manually added to your inventory with the command `add <GearName>`.
-(e.g. `add `)
-The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
+(e.g. `add diychusiona`)<br>
+The item is fully integrated into the console and will appear in the auto-complete when pressing tab.<br>
 
-#### Gear Name List
-[DIY by Santana Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki)
+- **Gear Name List:** [DIY by Santana Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki)
 
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
-* Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
+* Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
+* Install the latest version of [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere) .
 * Download latest version of `DiyBySantana.modcomponent` from the [releases page](https://github.com/stmSantana/DIY_by_Santana/releases/latest).
 * Move `DiyBySantana.modcomponent` to your mods folder.
 
+### Required mod
+* **Required :** [ModComponent](https://github.com/ds5678/ModComponent)
+* **Required :** [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere)
+
 ### Recommended mods
-I **highly recommend** using this mod with P.A.
-* [Placing Anywhere by Xpazeman](https://github.com/Xpazeman/tld-placing-anywhere)
 * [PlaceFromInventory by zorgesho](https://github.com/zorgesho/TheLongDarkMods/tree/master/PlaceFromInventory)
-* 
+* [Tld Better Bases (Beta) by Xpazeman](https://github.com/Xpazeman/tld-better-bases)
+
 ## Special Thanks
 The Long Dark Modding Server (discord)
