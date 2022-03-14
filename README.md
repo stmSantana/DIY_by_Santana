@@ -40,8 +40,8 @@ The item is fully integrated into the console and will appear in the auto-comple
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
 * Install the latest version of [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere) .
 * Download latest version of `DiyBySantana.zip` from the [releases page](https://github.com/stmSantana/DIY_by_Santana/releases/latest).
-* Move two files in the downloaded ZIP to the Mods folder.<br>
- --- `DiyBySantana.modcomponent` is a required file.<br>
+* Move one or two files in the downloaded ZIP to the Mods folder.<br>
+ --- `DiyBySantana.modcomponent` is a **required file**.<br>
  --- `DiyBySantana_AddOn.modcomponent` is an option file. Installing this together with the required file will add a blueprint to craft the nailbox from Reclaimed wood.
 * **Note: Zip files should not be moved to the Mods folder!**
 
