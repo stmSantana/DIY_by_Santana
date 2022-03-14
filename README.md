@@ -1,11 +1,14 @@
 # DIY by Santana
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
-## Description v1.1
+## Description v1.2
 This mod adds some craftable furniture to the game. The list is on the [Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki).<br>
-You will need a new mod item `Nail box` to craft most wooden furniture. <br>
-Nails can be found in lockers, etc., and can be **forged from scrap metal**. 
-(v1.1- can be crafted from reclaim wood x2.)
+You will need a new mod item **Nail box** to craft most wooden furniture. <br>
+Nails can be found in lockers, etc., and can be **forged from scrap metal**. <br>
+
+### v1.2
+- Nail box can be crafted from reclaim wood x5, require Prybar. (by Add-on file)
+- Fixed: Add *Improvised Hatchet* to furniture harvesting tool.
 
 <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(3).jpg" width="90%"><br>
 <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(4).jpg" width="45%"> <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(5).jpg" width="45%"> <br>
@@ -32,12 +35,15 @@ The item is fully integrated into the console and will appear in the auto-comple
 - **Gear Name List:** [DIY by Santana Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki)
 
 
-## Installation
+## Installation v1.2
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
 * Install the latest version of [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere) .
-* Download latest version of `DiyBySantana.modcomponent` from the [releases page](https://github.com/stmSantana/DIY_by_Santana/releases/latest).
-* Move `DiyBySantana.modcomponent` to your mods folder.
+* Download latest version of `DiyBySantana.zip` from the [releases page](https://github.com/stmSantana/DIY_by_Santana/releases/latest).
+* Move two files in the downloaded ZIP to the Mods folder.<br>
+ --- `DiyBySantana.modcomponent` is a required file.<br>
+ --- `DiyBySantana_AddOn.modcomponent` is an option file. Installing this together with the required file will add a blueprint to craft the nailbox from Reclaimed wood.
+* **Note: Zip files should not be moved to the Mods folder!**
 
 ### Required mod
 * **Required :** [ModComponent](https://github.com/ds5678/ModComponent)
