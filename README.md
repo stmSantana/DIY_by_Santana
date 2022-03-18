@@ -6,8 +6,8 @@ This mod adds some craftable furniture to the game. The list is on the [Wiki](ht
 You will need a new mod item **Nail box** to craft most wooden furniture. <br>
 Nails can be found in lockers, etc., and can be **forged from scrap metal**. <br>
 
-### v1.2
-- Nail box can be crafted from reclaim wood x5, require Prybar. (by Add-on file)
+### v1.2.1
+- Nail box can be crafted from reclaim wood x5, require ToolBox. (by Add-on file)
 - Fixed: Add *Improvised Hatchet* to furniture harvesting tool.
 
 <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(3).jpg" width="90%"><br>
