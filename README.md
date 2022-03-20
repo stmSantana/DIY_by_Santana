@@ -2,9 +2,9 @@
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description v1.2
-This mod adds some craftable furniture to the game. The list is on the [Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki).<br>
-You will need a new mod item **Nail box** to craft most wooden furniture. <br>
-Nails can be found in lockers, etc., and can be **forged from scrap metal**. <br>
+- This mod adds some craftable furniture to the game. The list is on the [Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki).<br>
+- You will need a new mod item **Nail box** to craft most wooden furniture. <br>
+- Nails can be found in lockers, etc., and can be **forged from scrap metal**. <br>
 
 ### v1.2.1
 - Nail box can be crafted from reclaim wood x5, require ToolBox. (by Add-on file)
