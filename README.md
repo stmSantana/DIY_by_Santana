@@ -11,8 +11,8 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 - v1.3.0: When a player **breaks down** a wooden vanilla object (tables, chairs, etc.), you can get nails from it. (Prybar is not required)
 - v1.2.1: (by Add-on file) Nail box can be **crafted** from reclaim wood x5, require ToolBox. (The reclaim wood is disassembled and disappears to remove the nails.)
 
-<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(3).jpg" width="90%"><br>
-<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(1).jpg" width="45%"> <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(5).jpg" width="45%"> <br>
+<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(1).jpg" width="90%"><br>
+<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY6.jpg" width="45%"> <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(5).jpg" width="45%"> <br>
 
 [More Images](https://github.com/stmSantana/DIY_by_Santana/wiki/Gallery)
 
