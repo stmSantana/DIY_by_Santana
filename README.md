@@ -1,10 +1,9 @@
 # DIY by Santana
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
-## Description v1.3
+## Description
 - This mod adds some craftable furniture to the game. The list is on the [Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki).<br>
 - You will need a new mod item **Nail box** to craft most wooden furniture. <br>
-
 
 ### Nail box
 - NailBox can be **found** in lockers, etc., 
@@ -37,7 +36,7 @@ The item is fully integrated into the console and will appear in the auto-comple
 - **Gear Name List:** [DIY by Santana Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki)
 
 
-## Installation v1.3
+## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
 * Install the latest version of [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere) .
