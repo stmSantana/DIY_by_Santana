@@ -24,6 +24,10 @@ Use the "Conform to surface" shortcut key when using this mod with the "Placing 
 
 <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/diyuse2.jpg" width="90%"><br>
 
+### Crafting Bed
+You need to make each part of the bed (pillow, mattresse, frame) first and then combine them in the craft menu. You can sleep in the finished bed.<br>
+<img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/beds.jpg"><br>
+
 
 ### Finding Items
 - Currently the new item `Wrought nail` will be spawned while searching various locations, e.g. Workbench, Locker.
